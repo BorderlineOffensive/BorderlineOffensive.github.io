@@ -12,3 +12,7 @@ h3 {
     color: cyan;
     text-align: center;
 }
+
+body {
+    background-image: url("../images/challenger-stands-front-spooky-castle-illustration.jpg");
+}
